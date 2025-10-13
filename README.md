@@ -23,22 +23,17 @@ bongo.ai ni msindikaji wa maswali na majibu (Q&A) yenye lengo la kutoa majibu ra
 
 ## **Usalama na Faragha**
 
-bongo.ai haiwezi kuchambua au kuhifadhi taarifa za siri bila idhini. Endapo utatumia mfereji wa ndani (internal logs), tutatoa mwanga juu ya jinsi data inavyohifadhiwa kwenye `docs/privacy.md`.
+bongo.ai haiwezi kuchambua au kuhifadhi taarifa za siri bila idhini. Endapo utatumia mfereji wa ndani (internal logs).
 
-## Wasiliana
+## Wasiliana nasi
 
 * Mradi: **Deep Technology Group (Tanzania)**
 * Msimamizi: **Anonmad-Network**
-* Email (kwa ushauri / michango): `hello@deeptech.tz` *(badilisha ukiwa na contact halisi)*
-
-## Leseni
-
-Mradi umewekwa chini ya leseni **MIT**. Angalia `LICENSE` kwa maelezo zaidi.
+* Email (kwa ushauri / michango): `anonymousmad74@gmail.com`
+* Location: Kigoma - Tanzania
 
 ---
 
-###### Taarifa za mwisho
-
-Huu README ni template inayovutia na inayofaa kwa GitHub repo yako. Unaweza kubadilisha sehemu za mawasiliano, link za repo, na maagizo ya kuendesha kulingana na muundo halisi wa code yako.
+###### Mwisho
 
 *Made with ❤️ in Tanzania — Deep Technology Group & Anonmad-Network*
